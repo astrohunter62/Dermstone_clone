@@ -93,10 +93,6 @@ This is the Checkout page, which is the last page of the website. The user will 
 > • Heroku
 > • Git
 
-## 📒 Blog
-
-If you are interested in knowing more about this project...like how we made it and in what time then check [DermStore](https://talib123.hashnode.dev/dermstorecom-website-clone-construct-week-unit-06) out! 
-
 ## Team Work Efforts 
 
 It is always taught to us that communication plays a great where it comes to group work. Our communication was so good that it enhanced our interest and motivated us to keep working in order to achieve the end result.
